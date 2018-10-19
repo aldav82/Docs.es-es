@@ -15,6 +15,20 @@ ms.locfileid: "47860945"
 ---
 # <a name="get-started-with-aspnet-core"></a>Introducción a ASP.NET Core
 
+Este tutorial muestra como usar la linea de comando de .NET Core para crear una aplicación web ASP.NET Core. Luego de haber completado los pasos, usted aprendera a:
+
+> [!div class="checklist"]
+> * Crear un proyecto de tipo Web App.
+> * Habilitar localmente HTTPS.
+> * Ejecutar la aplicación.
+> * Editar una página Razor.
+
+Al finalizar, se tendrá una aplicación web funcional ejecutándose en su ordenador local.
+
+![Web app home page](home-page.png)
+
+## Prerrequisitos
+
 Este documento proporciona los pasos necesarios para crear y ejecutar una aplicación ASP.NET Core.
 
 ::: moniker range=">= aspnetcore-2.1"
